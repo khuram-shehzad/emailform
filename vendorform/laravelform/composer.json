@@ -1,0 +1,8 @@
+{
+    "name": "khuram/laravelform",
+    "description": "this is my form package for saving data",
+    "type": "laravel",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
