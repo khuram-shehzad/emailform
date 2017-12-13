@@ -4,5 +4,12 @@
     "type": "laravel",
     "license": "MIT",
     "minimum-stability": "stable",
-    "require": {}
+    "require": {
+    	"php": ">=5.5.9",
+        "laravel/framework": "5.2.* || 5.3.* || 5.4.* || 5.5.*"
+    },
+    "autoload": {
+		"psr-4": {
+			"Vendorform\\Laravelform\\": "./src"
+		}
 }
